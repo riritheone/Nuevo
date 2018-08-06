@@ -1,0 +1,8 @@
+table,th,tr {border: 1px solid;}
+th {background-color:gray;}
+th {font-weight:bold;}
+tr {background-color:#FFBE03;}
+td {text-align:center;}
+#beta_1 {background-color:#FFBE03;}
+#beta_2 {color:white;}
+#boton_1 {background-color:#FFBE03;}
